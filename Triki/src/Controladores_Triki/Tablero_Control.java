@@ -9,10 +9,10 @@ import java.awt.event.ActionListener;
  * @author Saday G
  */
 public class Tablero_Control implements ActionListener{
-    Tablero t;
+    Tablero O;
     
     public Tablero_Control(Tablero obj1){
-         t = obj1;
+         O = obj1;
     
 }
     
